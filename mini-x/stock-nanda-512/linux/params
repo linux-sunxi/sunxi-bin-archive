@@ -1,0 +1,2 @@
+console=ttyS0,115200 root=/dev/nandb rw init=/init fbmem=32M@0x5a000000 loglevel=8;
+

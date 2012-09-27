@@ -1,0 +1,2 @@
+console=ttyS0,115200 root=/dev/nandf rw init=/init mem=448M@0x40000000 fbmem=32M@0x5a000000;
+
