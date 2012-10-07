@@ -1,0 +1,21 @@
+key 1    BACK               WAKE_DROPPED
+key 28   DPAD_CENTER        WAKE_DROPPED
+key 108  DPAD_DOWN          WAKE_DROPPED
+key 103  DPAD_UP            WAKE_DROPPED
+key 102  HOME               WAKE
+key 105  DPAD_LEFT          WAKE_DROPPED
+key 106  DPAD_RIGHT         WAKE_DROPPED
+key 116  POWER              WAKE
+key 164  MEDIA_PLAY_PAUSE   WAKE
+key 184  MEDIA_STOP         WAKE
+key 113  MUTE               WAKE
+key 114   VOLUME_DOWN
+key 115   VOLUME_UP
+key 187   MEDIA_PREVIOUS     WAKE
+key 188   MEDIA_NEXT         WAKE
+key 60   TV_SYSTEM          WAKE
+key 68   AUDIO              WAKE
+key 194  BROWSER            WAKE
+key 20   EXPAND             WAKE
+key 185  ZOOM_IN            WAKE
+key 186  ZOOM_OUT           WAKE
