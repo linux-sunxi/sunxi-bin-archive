@@ -1,0 +1,14 @@
+key 102   HOME              WAKE
+key 158   BACK              WAKE
+key 229   MENU              WAKE
+key 139   MENU              WAKE
+key 59    MENU              WAKE
+key 115   VOLUME_UP
+key 114   VOLUME_DOWN
+
+key 1     HOME              WAKE
+key 2     BACK              WAKE
+key 3     MENU              WAKE
+key 4     VOLUME_DOWN
+key 5     VOLUME_UP  
+
