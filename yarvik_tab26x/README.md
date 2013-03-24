@@ -11,3 +11,4 @@ Files
 * nand_boot - boot files if booting from nand
 * sys_config0.fex - used by livesuit to create partitions and flash its content
 * sys_config1.fex - also known as script.fex
+* a10meminfo - stock a10meminfo dram_para timings
