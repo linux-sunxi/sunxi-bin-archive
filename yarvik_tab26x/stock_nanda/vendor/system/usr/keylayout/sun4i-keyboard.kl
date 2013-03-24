@@ -1,7 +1,7 @@
-#Rocky@20111029 + M711
-key 139	  VOLUME_DOWN
-key 217	  VOLUME_UP
+#Rocky@20111024 +
+key 139	  VOLUME_UP
+key 217	  VOLUME_DOWN
 key 102   HOME              WAKE
 key 1     BACK              WAKE
 key 115	  MENU         	    WAKE_DROPPED
-
+#Rocky@20110919 -
